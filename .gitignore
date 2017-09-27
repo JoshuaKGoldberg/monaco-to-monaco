@@ -1,0 +1,7 @@
+dist
+lib
+node_modules/
+npm-debug.log
+*.js.map
+test/*.js
+test/end-to-end/*.ts

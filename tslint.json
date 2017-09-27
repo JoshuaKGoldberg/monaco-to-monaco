@@ -1,0 +1,11 @@
+{
+    "extends": "tslint:all",
+    "rules": {
+        "arrow-parens": [false],
+        "callable-types": [false],
+        "linebreak-style": [false],
+        "space-before-function-paren": [false],
+        "variable-name": [false],
+        "typedef": [false]
+    }
+}
