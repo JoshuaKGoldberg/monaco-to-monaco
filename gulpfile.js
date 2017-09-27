@@ -110,6 +110,7 @@ function runTests(wildcard) {
 
 gulp.task("test:run", function () {
     return runTests([
+        "test/setup.js",
         "test/*.js",
         "test/**/*.js"
     ]);
